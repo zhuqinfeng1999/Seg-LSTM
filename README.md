@@ -50,7 +50,7 @@ Requirements: Ubuntu 20.04, CUDA 12.4
 
 ## Training Seg-LSTM
 
-`bash tools/dist_train.sh 'configfile' 2 --work-dir /mmsegmentation/output/seglstm
+`bash tools/dist_train.sh 'configfile' 2 --work-dir /mmsegmentation/output/seglstm`
 
 
 ## Testing Seg-LSTM
