@@ -1,13 +1,13 @@
-# [Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images](https://arxiv.org/abs/)
+# [Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images](https://arxiv.org/abs/2406.14086)
 
-This is the official code repository for "Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images". {[Arxiv Paper](https://arxiv.org/abs/)}
+This is the official code repository for "Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images". {[Arxiv Paper](https://arxiv.org/abs/2406.14086)}
 
 ![架构](https://github.com/zhuqinfeng1999/Seg-LSTM/assets/34743935/85199e03-dfb3-4410-aa6b-663526fa7b3c)
 
 
 [![GitHub stars](https://badgen.net/github/stars/zhuqinfeng1999/Seg-LSTM)](https://github.com//zhuqinfeng1999/Seg-LSTM)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.14086-b31b1b.svg)](https://arxiv.org/abs/2406.14086)
 
 ## Abstract
 
@@ -64,7 +64,13 @@ If you find this work useful in your research, please consider cite:
 
 ```
 @article{
-
+zhu2024seglstm,
+    title={Seg-LSTM: Performance of xLSTM for Semantic Segmentation of Remotely Sensed Images},
+    author={Qinfeng Zhu and Yuanzhi Cai and Lei Fan},
+    year={2024},
+    eprint={2406.14086},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 
 ```
